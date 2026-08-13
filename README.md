@@ -33,9 +33,14 @@
 
 下载
 ----
-https://github.com/voidtools/voidImageViewer/releases
+**简体中文版（本仓库）：**
 
-https://www.voidtools.com/forum/viewtopic.php?t=5623
+- 中文版安装包：https://github.com/sanyectop/voidImageViewer_ChineseVer/releases
+
+**英文原版：**
+
+- https://github.com/voidtools/voidImageViewer/releases
+- https://www.voidtools.com/forum/viewtopic.php?t=5623
 <br/><br/><br/>
 
 
