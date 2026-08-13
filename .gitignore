@@ -1,0 +1,47 @@
+# Visual Studio build outputs
+[Bb]uild/
+[Oo]ut/
+vs2005/[Dd]ebug/
+vs2005/[Rr]elease*/
+vs2019/[Dd]ebug/
+vs2019/[Rr]elease*/
+vs2026/[Dd]ebug/
+vs2026/[Rr]elease*/
+vs2026/x64/
+vs2026/ARM/
+vs2026/ARM64/
+vs2026/Win32/
+vs2026/voidImageViewer/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.o
+*.lib
+*.res
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.ipdb
+*.iobj
+*.pch
+
+# Visual Studio user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Resource editor cache
+*.aps
+
+# NSIS installer output
+nsis/*-Setup.exe
+nsis/*.exe
+nsis/*.tmp
+
+# tar extraction leftovers
+PaxHeaders.*/
